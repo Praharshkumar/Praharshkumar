@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Praharshkumar/Praharshkumar/blob/main/Black%20and%20Purple%20Modern%20Virtual%20Twitter%20Header.png)
 # 💫 About Me:
 🔭 I’m currently Studying in Computer Science and Engineering <br>🌱 I’m currently learning  Full Stack Web Development, Android app<br>📫 How to reach me praharshkumar20@gmail.com<br>👨‍💻 All of my projects are available at https://linktr.ee/Praharshkumar<br>📄 Know about my experiences https://bit.ly/3WQafc3<br>
 
